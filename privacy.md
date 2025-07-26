@@ -2,26 +2,40 @@
 
 **Last updated:** July 27, 2025
 
-Ge0 (“we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how Ge0 uses and discloses information when you use our iPad GIS viewer app, now powered by Mapbox.
+Ge0 is a solo‑developer app created and maintained by Ali Salman. This Privacy Policy explains how I use and disclose information when you use my iPhone GIS viewer app, now powered by Mapbox.
 
 1. Map Rendering & External Requests
 Mapbox Maps SDK
-To display map tiles and map controls, Ge0 uses the Mapbox Maps SDK. When you view a map, the SDK requests map data (tiles, style definitions, etc.) from Mapbox servers.
+To display map tiles and map controls, GE0 uses the Mapbox Maps SDK. When you view a map, the SDK requests map data (tiles, style definitions, etc.) from Mapbox servers.
+
 What Mapbox may collect
-Mapbox may receive your device’s IP address, approximate location (to serve the correct map tiles), and basic usage information (e.g. which map style or zoom levels you request). This is strictly for delivering map content and is governed by Mapbox’s own Privacy Policy (https://www.mapbox.com/legal/privacy/).
+Mapbox may receive:
+
+Your device’s IP address
+An approximate location (to serve the correct map tiles)
+Basic usage information (e.g., which map style or zoom levels you request)
+All such data is collected solely by Mapbox to deliver map content, and is governed by Mapbox’s Privacy Policy:
+https://www.mapbox.com/legal/privacy/
+
 No additional sharing
-Ge0 does not share any further personal data with Mapbox beyond what the SDK automatically transmits.
+I do not share any further personal data with Mapbox beyond what the SDK automatically transmits.
+
 2. Local File Access
-GeoJSON files
-When you import GeoJSON files, Ge0 reads them directly from your device’s storage. We do not upload your files to any server.
+When you import GeoJSON files, Ge0 reads them directly from your device’s storage. I never upload your files to any server.
+
 3. Location Display
-On‑device only
-Your device’s current location (the “blue dot”) is displayed locally in the app. We do not send, log, or store your location data on our servers.
+Your device’s current location (the “blue dot”) is displayed entirely on‑device. I do not send, log, or store your location data on any server.
+
 4. Analytics & Crash Reporting
 No third‑party analytics
-We do not integrate any analytics, crash‑reporting, or telemetry SDKs of our own.
+I do not integrate any analytics, crash‑reporting, or telemetry SDKs of my own.
 Mapbox telemetry
-Mapbox’s SDK may collect anonymous usage metrics to improve their service (e.g. tile load performance). This telemetry is controlled by Mapbox and subject to their policy—not ours.
+Mapbox’s SDK may collect anonymous usage metrics (e.g., tile load performance) to improve their service. That telemetry is managed by Mapbox under their policy—not mine.
 5. Data Retention
-No personal data storage
-Ge0 does not collect, transmit, or store any personal data on our servers. All data—map tiles (cached by Mapbox SDK), GeoJSON files, and your location display—remain on your device.
+Ge0 does not collect, transmit, or store any personal data on my servers. All data—map tiles (cached locally by the Mapbox SDK), imported GeoJSON files, and your on‑device location display—remains solely on your device.
+
+6. Contact
+If you have any questions or concerns about this Privacy Policy or how Ge0 handles your data, please email me at:
+alisalmanh@yahoo.com
+
+Thank you for using GE0!
